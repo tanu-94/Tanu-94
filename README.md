@@ -183,9 +183,7 @@ Power BI
    │
    ▼
 Statistics
-   │
-   ▼
-Machine Learning
+
 ```
 
 ---
