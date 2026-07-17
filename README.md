@@ -1,185 +1,209 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/DATA%20ANALYST-DASHBOARD-0F7169?style=for-the-badge&labelColor=16211F" alt="banner"/>
+# 👋 Hi, I'm Tanu
 
-# TANUJA HIREMATH
-<sub>SQL &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Python &nbsp;·&nbsp; UI/UX</sub>
+### 📊 Aspiring Data Analyst | SQL | Python | Power BI | Excel
 
-<br/>
+Turning raw data into meaningful business insights.
 
-<!-- KPI ROW -->
-<img src="https://img.shields.io/badge/PROJECTS-03-0F7169?style=flat-square&labelColor=16211F"/>
-<img src="https://img.shields.io/badge/CORE%20TOOLS-08+-E0A33D?style=flat-square&labelColor=16211F"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0F7169?style=flat-square&labelColor=16211F"/>
-<img src="https://img.shields.io/badge/BASE-BANGALORE%2C%20IN-E0A33D?style=flat-square&labelColor=16211F"/>
+---
 
-<br/><br/>
-
-[![Email](https://img.shields.io/badge/Email-16211F?style=flat-square&logo=gmail&logoColor=E0A33D)](mailto:Tanu.hiremath94@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-16211F?style=flat-square&logo=linkedin&logoColor=0F7169)](https://www.linkedin.com/in/tanuja-hiremath-350906222)
-[![Behance](https://img.shields.io/badge/Behance-16211F?style=flat-square&logo=behance&logoColor=E0A33D)](https://www.behance.net/tanujahm)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Cleaning;SQL+Analytics;Power+BI+Dashboards;Python+Data+Analysis;Business+Insights;Always+Learning"/>
 
 </div>
 
 ---
 
-### `// SUMMARY`
+# 🚀 About Me
 
-BCA graduate building a career in data analytics — hands-on with **SQL, Power BI, and Python**, cleaning and modeling data into dashboards that support real decisions. A UI/UX and design background means the output is built to be read at a glance, not just calculated correctly.
+I'm an aspiring **Data Analyst** passionate about transforming raw data into actionable insights.
 
----
+I enjoy solving business problems using:
 
-### `// STACK`
+- 📊 Power BI
+- 🗄 MySQL
+- 🐍 Python
+- 📈 Excel
+- 📉 Data Visualization
+- 📋 Dashboard Development
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Data & Analytics**
-<br/>
-![SQL](https://img.shields.io/badge/SQL-16211F?style=flat-square&logo=mysql&logoColor=0F7169)
-![Power BI](https://img.shields.io/badge/Power_BI-16211F?style=flat-square&logo=powerbi&logoColor=E0A33D)
-![Python](https://img.shields.io/badge/Python-16211F?style=flat-square&logo=python&logoColor=0F7169)
-![Excel](https://img.shields.io/badge/Excel-16211F?style=flat-square&logo=microsoftexcel&logoColor=E0A33D)
-
-**Design**
-<br/>
-![Photoshop](https://img.shields.io/badge/Photoshop-16211F?style=flat-square&logo=adobephotoshop&logoColor=0F7169)
-![Illustrator](https://img.shields.io/badge/Illustrator-16211F?style=flat-square&logo=adobeillustrator&logoColor=E0A33D)
-![Figma](https://img.shields.io/badge/UI/UX-16211F?style=flat-square&logo=figma&logoColor=0F7169)
-
-</td>
-<td valign="top" width="50%">
-
-**Web**
-<br/>
-![HTML](https://img.shields.io/badge/HTML5-16211F?style=flat-square&logo=html5&logoColor=E0A33D)
-![CSS](https://img.shields.io/badge/CSS3-16211F?style=flat-square&logo=css3&logoColor=0F7169)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-16211F?style=flat-square&logo=bootstrap&logoColor=E0A33D)
-
-**Core Competencies**
-<br/>
-`Data Cleaning` &nbsp;`Data Visualization`&nbsp; `Dashboard Development`
-
-</td>
-</tr>
-</table>
+Currently building real-world projects to strengthen my analytical skills.
 
 ---
 
-### `// PROJECT LOG`
+# 📊 Data Analytics Workflow
 
-| ID | Project | Description | Stack | Status |
-|:--:|---|---|---|:--:|
-| 01 | **[Financial Performance Dashboard](https://github.com/tanu-94/Add-first-Power-BI-dashboard-project)** | Interactive Power BI dashboard tracking revenue, profit, and sales trends | `Power BI` `DAX` `Power Query` | ✅ |
-| 02 | **[PulseMetrics — Healthcare Analytics](https://github.com/tanu-94/PulseMetrics-Healthcare-Analytics)** | DB + analytics pipeline for hospital ops, pharmacy inventory & patient engagement | `SQL` `Data Modeling` `UI/UX` | ✅ |
-| 03 | **[Python for Data Analytics](https://github.com/tanu-94/Add-Python-basics-and-beginner-programs)** | Python fundamentals & analysis exercises in Jupyter | `Python` `Jupyter` | ✅ |
-
----
-
-### `// ACTIVITY`
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanu-94&show_icons=true&hide_border=true&title_color=E0A33D&icon_color=0F7169&text_color=F4F6F4&bg_color=16211F&ring_color=0F7169"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu-94&layout=compact&hide_border=true&title_color=E0A33D&text_color=F4F6F4&bg_color=16211F&langs_count=6"/>
-<br/>
-<img src="https://streak-stats.demolab.com/?user=tanu-94&hide_border=true&background=16211F&ring=0F7169&fire=E0A33D&currStreakLabel=F4F6F4&sideLabels=F4F6F4&dates=5B6C66"/>
-</div>
-
----
-
-<div align="center">
-<sub>Open to internship and entry-level Data Analyst opportunities — Bangalore or remote.</sub>
-</div><div align="center">
-
-<img src="https://img.shields.io/badge/DATA%20ANALYST-DASHBOARD-0F7169?style=for-the-badge&labelColor=16211F" alt="banner"/>
-
-# TANUJA HIREMATH
-<sub>SQL &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Python &nbsp;·&nbsp; UI/UX</sub>
-
-<br/>
-
-<!-- KPI ROW -->
-<img src="https://img.shields.io/badge/PROJECTS-03-0F7169?style=flat-square&labelColor=16211F"/>
-<img src="https://img.shields.io/badge/CORE%20TOOLS-08+-E0A33D?style=flat-square&labelColor=16211F"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0F7169?style=flat-square&labelColor=16211F"/>
-<img src="https://img.shields.io/badge/BASE-BANGALORE%2C%20IN-E0A33D?style=flat-square&labelColor=16211F"/>
-
-<br/><br/>
-
-[![Email](https://img.shields.io/badge/Email-16211F?style=flat-square&logo=gmail&logoColor=E0A33D)](mailto:Tanu.hiremath94@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-16211F?style=flat-square&logo=linkedin&logoColor=0F7169)](https://www.linkedin.com/in/tanuja-hiremath-350906222)
-[![Behance](https://img.shields.io/badge/Behance-16211F?style=flat-square&logo=behance&logoColor=E0A33D)](https://www.behance.net/tanujahm)
-
-</div>
+```
+Raw Data
+   │
+   ▼
+Data Cleaning
+   │
+   ▼
+SQL Analysis
+   │
+   ▼
+Python Analysis
+   │
+   ▼
+Visualization
+   │
+   ▼
+Power BI Dashboard
+   │
+   ▼
+Business Insights
+```
 
 ---
 
-### `// SUMMARY`
+# 🛠 Tech Stack
 
-BCA graduate building a career in data analytics — hands-on with **SQL, Power BI, and Python**, cleaning and modeling data into dashboards that support real decisions. A UI/UX and design background means the output is built to be read at a glance, not just calculated correctly.
+## Languages
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### `// STACK`
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Data & Analytics**
-<br/>
-![SQL](https://img.shields.io/badge/SQL-16211F?style=flat-square&logo=mysql&logoColor=0F7169)
-![Power BI](https://img.shields.io/badge/Power_BI-16211F?style=flat-square&logo=powerbi&logoColor=E0A33D)
-![Python](https://img.shields.io/badge/Python-16211F?style=flat-square&logo=python&logoColor=0F7169)
-![Excel](https://img.shields.io/badge/Excel-16211F?style=flat-square&logo=microsoftexcel&logoColor=E0A33D)
-
-**Design**
-<br/>
-![Photoshop](https://img.shields.io/badge/Photoshop-16211F?style=flat-square&logo=adobephotoshop&logoColor=0F7169)
-![Illustrator](https://img.shields.io/badge/Illustrator-16211F?style=flat-square&logo=adobeillustrator&logoColor=E0A33D)
-![Figma](https://img.shields.io/badge/UI/UX-16211F?style=flat-square&logo=figma&logoColor=0F7169)
-
-</td>
-<td valign="top" width="50%">
-
-**Web**
-<br/>
-![HTML](https://img.shields.io/badge/HTML5-16211F?style=flat-square&logo=html5&logoColor=E0A33D)
-![CSS](https://img.shields.io/badge/CSS3-16211F?style=flat-square&logo=css3&logoColor=0F7169)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-16211F?style=flat-square&logo=bootstrap&logoColor=E0A33D)
-
-**Core Competencies**
-<br/>
-`Data Cleaning` &nbsp;`Data Visualization`&nbsp; `Dashboard Development`
-
-</td>
-</tr>
-</table>
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### `// PROJECT LOG`
+## Analytics
 
-| ID | Project | Description | Stack | Status |
-|:--:|---|---|---|:--:|
-| 01 | **[Financial Performance Dashboard](https://github.com/tanu-94/Add-first-Power-BI-dashboard-project)** | Interactive Power BI dashboard tracking revenue, profit, and sales trends | `Power BI` `DAX` `Power Query` | ✅ |
-| 02 | **[PulseMetrics — Healthcare Analytics](https://github.com/tanu-94/PulseMetrics-Healthcare-Analytics)** | DB + analytics pipeline for hospital ops, pharmacy inventory & patient engagement | `SQL` `Data Modeling` `UI/UX` | ✅ |
-| 03 | **[Python for Data Analytics](https://github.com/tanu-94/Add-Python-basics-and-beginner-programs)** | Python fundamentals & analysis exercises in Jupyter | `Python` `Jupyter` | ✅ |
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-### `// ACTIVITY`
+## Development
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanu-94&show_icons=true&hide_border=true&title_color=E0A33D&icon_color=0F7169&text_color=F4F6F4&bg_color=16211F&ring_color=0F7169"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu-94&layout=compact&hide_border=true&title_color=E0A33D&text_color=F4F6F4&bg_color=16211F&langs_count=6"/>
-<br/>
-<img src="https://streak-stats.demolab.com/?user=tanu-94&hide_border=true&background=16211F&ring=0F7169&fire=E0A33D&currStreakLabel=F4F6F4&sideLabels=F4F6F4&dates=5B6C66"/>
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-<div align="center">
-<sub>Open to internship and entry-level Data Analyst opportunities — Bangalore or remote.</sub>
-</div>
+# 📂 Featured Projects
+
+## 🏥 Hospital Analytics Dashboard
+
+✔ SQL Data Cleaning
+
+✔ Python EDA
+
+✔ Power BI Dashboard
+
+✔ KPI Analysis
+
+✔ Revenue Analysis
+
+✔ Patient Insights
+
+---
+
+## 🛒 Zepto Sales Analysis
+
+✔ Data Cleaning
+
+✔ SQL Queries
+
+✔ Python Visualization
+
+✔ Power BI Dashboard
+
+✔ Business Recommendations
+
+---
+
+## ⚡ EV Charging Analytics (VoltView)
+
+✔ EV Charging Analysis
+
+✔ Revenue Dashboard
+
+✔ Station Performance
+
+✔ Power BI
+
+---
+
+# 📈 Skills
+
+✅ Data Cleaning
+
+✅ Data Wrangling
+
+✅ Data Visualization
+
+✅ Exploratory Data Analysis
+
+✅ Dashboard Design
+
+✅ SQL Joins
+
+✅ Window Functions
+
+✅ DAX
+
+✅ Power Query
+
+✅ KPI Reporting
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Data Analyst Roadmap
+
+```
+Excel
+   │
+   ▼
+SQL
+   │
+   ▼
+Python
+   │
+   ▼
+Power BI
+   │
+   ▼
+Statistics
+   │
+   ▼
+Machine Learning
+```
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+
+📂 GitHub
+
+📧 Email
+
+---
+
+# 💡 Quote
+
+> "Without data, you're just another person with an opinion."
+
+— W. Edwards Deming
+
+---
