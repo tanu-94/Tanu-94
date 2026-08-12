@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tanu
 
-### 📊 Aspiring Data Analyst | SQL | Python | Power BI | Excel
+### 📊 Data Analyst | SQL | Python | Power BI | Excel | Data Visualization
 
 Turning raw data into meaningful business insights.
 
