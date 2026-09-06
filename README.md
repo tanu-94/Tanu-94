@@ -1,207 +1,485 @@
 <div align="center">
 
-# 👋 Hi, I'm Tanu
+# TANUJA HIREMATH
 
-### 📊 Data Analyst | SQL | Python | Power BI | Excel | Data Visualization
+### DATA ANALYST
 
-Turning raw data into meaningful business insights.
+**SQL · Python · Power BI · Excel · Data Visualization**
 
----
+*Turning raw data into clear, actionable business insights.*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Cleaning;SQL+Analytics;Power+BI+Dashboards;Python+Data+Analysis;Business+Insights;Always+Learning"/>
+<br>
+
+🟢 **OPEN TO DATA ANALYST OPPORTUNITIES**
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/tanuja-h-350906222/">
+<img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=flat-square&logo=linkedin&logoColor=000000">
+</a>
+&nbsp;
+<a href="mailto:tanu.hiremath94@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-39FF88?style=flat-square&logo=gmail&logoColor=000000">
+</a>
+&nbsp;
+<a href="./Tanuja_Hiremath_Resume.pdf">
+<img src="https://img.shields.io/badge/DOWNLOAD_RESUME-BD7CFF?style=flat-square&logo=adobeacrobatreader&logoColor=000000">
+</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# ▌ ANALYST PROFILE
 
-I'm an aspiring **Data Analyst** passionate about transforming raw data into actionable insights.
+> **I turn data into decisions.**
 
-I enjoy solving business problems using:
+I am **Tanuja Hiremath**, a Data Analyst focused on transforming raw datasets into meaningful business insights.
 
-- 📊 Power BI
-- 🗄 MySQL
-- 🐍 Python
-- 📈 Excel
-- 📉 Data Visualization
-- 📋 Dashboard Development
+My analytical workflow combines **SQL, Python, Pandas, Power BI, Excel, Power Query, and DAX** to move from raw data to structured analysis, KPI reporting, visualization, and actionable insights.
 
-Currently building real-world projects to strengthen my analytical skills.
+I enjoy solving practical business questions through data — especially understanding **why performance changes, where problems occur, and what the data suggests should happen next.**
 
 ---
 
-# 📊 Data Analytics Workflow
+# ▌ ANALYTICS SNAPSHOT
 
-```
-Raw Data
-   │
-   ▼
-Data Cleaning
-   │
-   ▼
-SQL Analysis
-   │
-   ▼
-Python Analysis
-   │
-   ▼
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### SQL
+
+**MySQL**
+
+Queries
+Joins
+Aggregations
+Analysis
+
+</td>
+
+<td align="center" width="25%">
+
+### PYTHON
+
+**Pandas**
+
+Cleaning
+EDA
+Transformation
+Analysis
+
+</td>
+
+<td align="center" width="25%">
+
+### POWER BI
+
+**DAX**
+
+KPIs
+Data Models
+Dashboards
+Reporting
+
+</td>
+
+<td align="center" width="25%">
+
+### EXCEL
+
+**Power Query**
+
+Cleaning
+Analysis
+Reporting
 Visualization
-   │
-   ▼
-Power BI Dashboard
-   │
-   ▼
-Business Insights
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ▌ FEATURED PROJECT
+
+## 📊 SUPERSTORE DISCOUNT & PROFIT ANALYSIS
+
+### **Can a business increase sales through discounts without sacrificing profitability?**
+
+**MySQL · Python · Pandas · Power BI · DAX · Data Visualization**
+
+An end-to-end retail analytics project investigating the relationship between **discounts, sales, and profit** — while identifying product, customer, and regional areas that may contribute to profit leakage.
+
+The project follows a complete analytics workflow from **raw transaction data → data preparation → SQL analysis → Python analysis → Power BI visualization → business recommendations**.
+
+---
+
+### THE BUSINESS PROBLEM
+
+Discounts can help attract customers and increase sales.
+
+But higher discounts can also reduce profitability.
+
+The analysis therefore focuses on understanding:
+
+* How discount levels affect profitability
+* Where profit losses occur
+* Which products are vulnerable to excessive discounting
+* Which customers contribute to profit leakage
+* Which regions require attention
+* How discount strategy could be improved
+
+---
+
+### KEY BUSINESS QUESTIONS
+
+| AREA              | QUESTION                                                         |
+| ----------------- | ---------------------------------------------------------------- |
+| **Discount**      | How do different discount levels affect profit?                  |
+| **Profitability** | Which discount ranges may create profit leakage?                 |
+| **Products**      | Which categories and products are profitable or loss-making?     |
+| **Customers**     | Which customers generate profit and which contribute to leakage? |
+| **Geography**     | Which regions and states require attention?                      |
+| **Strategy**      | Where should discount controls be reviewed?                      |
+
+---
+
+### ANALYTICAL WORKFLOW
+
+```text
+                         RAW DATA
+                            │
+                            ▼
+                  ┌─────────────────┐
+                  │ DATA PREPARATION │
+                  │   & CLEANING    │
+                  └────────┬────────┘
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+         ┌───────┐     ┌────────┐    ┌─────────┐
+         │ MySQL │     │ Python │    │ Power BI│
+         │  SQL  │     │ Pandas │    │   DAX   │
+         └───┬───┘     └───┬────┘    └────┬────┘
+             │             │              │
+             └─────────────┼──────────────┘
+                           ▼
+                  ┌─────────────────┐
+                  │    INSIGHTS     │
+                  └────────┬────────┘
+                           ▼
+                  ┌─────────────────┐
+                  │ RECOMMENDATIONS │
+                  └─────────────────┘
 ```
 
 ---
 
-# 🛠 Tech Stack
+### ANALYSIS AREAS
 
-## Languages
+**01 · DISCOUNT ANALYSIS**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Understanding the relationship between discount levels, sales, and profit.
 
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+**02 · PRODUCT ANALYSIS**
 
----
+Identifying profitable and loss-making products and categories.
 
-## Analytics
+**03 · CUSTOMER ANALYSIS**
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+Exploring customer-level profitability and potential profit leakage.
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+**04 · REGIONAL ANALYSIS**
 
----
+Comparing sales and profitability across geographic regions.
 
-## Development
+**05 · KPI & DASHBOARD ANALYSIS**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+Turning analytical findings into decision-ready Power BI reporting.
 
 ---
 
-# 📂 Featured Projects
+### TECHNOLOGY STACK
 
-## 🏥 Hospital Analytics Dashboard
-
-✔ SQL Data Cleaning
-
-✔ Python EDA
-
-✔ Power BI Dashboard
-
-✔ KPI Analysis
-
-✔ Revenue Analysis
-
-✔ Patient Insights
-
----
-
-## 🛒 Zepto Sales Analysis
-
-✔ Data Cleaning
-
-✔ SQL Queries
-
-✔ Python Visualization
-
-✔ Power BI Dashboard
-
-✔ Business Recommendations
-
----
-
-## ⚡ EV Charging Analytics (VoltView)
-
-✔ EV Charging Analysis
-
-✔ Revenue Dashboard
-
-✔ Station Performance
-
-✔ Power BI
-
----
-
-# 📈 Skills
-
-✅ Data Cleaning
-
-✅ Data Wrangling
-
-✅ Data Visualization
-
-✅ Exploratory Data Analysis
-
-✅ Dashboard Design
-
-✅ SQL Joins
-
-✅ Window Functions
-
-✅ DAX
-
-✅ Power Query
-
-✅ KPI Reporting
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-
-
-
-</p>
-
----
-
-# 📈 Data Analyst Roadmap
-
-```
-Excel
-   │
-   ▼
-SQL
-   │
-   ▼
-Python
-   │
-   ▼
-Power BI
-   │
-   ▼
-Statistics
-
+```text
+MySQL          → SQL querying & business analysis
+Python         → Data analysis
+Pandas         → Data cleaning & manipulation
+Jupyter        → Exploratory Data Analysis
+Power BI       → Interactive dashboards
+DAX            → KPI calculations & measures
+Excel          → Supporting analysis
+GitHub         → Documentation & version control
 ```
 
 ---
 
-# 📫 Connect With Me
+### PROJECT VALUE
 
-💼 LinkedIn
+This project demonstrates my ability to move beyond simply creating charts.
 
-📂 GitHub
+**Business Question**
 
-📧 Email
+↓
+
+**Data Preparation**
+
+↓
+
+**SQL Analysis**
+
+↓
+
+**Python / EDA**
+
+↓
+
+**KPI Development**
+
+↓
+
+**Power BI Dashboard**
+
+↓
+
+**Business Insights**
+
+↓
+
+**Recommendations**
+
+> **The goal is not just to describe what happened — but to understand why it happened and where the business should take action.**
+
+<br>
+
+<div align="center">
+
+### 🔗 VIEW PROJECT
+
+<a href="https://github.com/tanu-94/superstore-discount-profit-analysis">
+
+**SUPERSTORE DISCOUNT & PROFIT ANALYSIS →**
+
+</a>
+
+</div>
 
 ---
 
-# 💡 Quote
+# ▌ OTHER ANALYTICS PROJECTS
 
-> "Without data, you're just another person with an opinion."
+## 🏥 HOSPITAL ANALYTICS
 
-— W. Edwards Deming
+**SQL · Python · Power BI · KPI Analysis**
+
+Healthcare analytics project focused on transforming healthcare data into structured KPIs, revenue analysis, patient insights, and interactive reporting.
+
+**Focus**
+
+`Data Cleaning` · `Python EDA` · `SQL` · `Power BI` · `KPI Reporting`
 
 ---
+
+## 🛒 ZEPTO SALES ANALYSIS
+
+**SQL · Python · Pandas · Power BI**
+
+Sales and product analysis focused on understanding performance, trends, product-level patterns, and business opportunities.
+
+**Focus**
+
+`Sales Analysis` · `SQL Queries` · `EDA` · `Visualization` · `Business Recommendations`
+
+---
+
+## ⚡ EV CHARGING ANALYTICS — VOLTVIEW
+
+**Power BI · Data Visualization · Analytics**
+
+EV charging analytics focused on understanding charging behaviour, station performance, revenue-related metrics, and operational insights.
+
+**Focus**
+
+`EV Analytics` · `Station Performance` · `Revenue Analysis` · `Power BI`
+
+---
+
+# ▌ MY ANALYTICAL TOOLKIT
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## DATA & ANALYSIS
+
+* MySQL
+* SQL
+* Python
+* Pandas
+* Excel
+* Power Query
+
+</td>
+
+<td width="50%" valign="top">
+
+## BI & VISUALIZATION
+
+* Power BI
+* DAX
+* Dashboard Design
+* KPI Reporting
+* Data Visualization
+* Data Storytelling
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ▌ WHAT I CAN DO
+
+```text
+DATA PREPARATION
+      │
+      ├── Data Cleaning
+      ├── Data Transformation
+      ├── Missing Data Handling
+      └── Power Query
+            │
+            ▼
+DATA ANALYSIS
+      │
+      ├── SQL Queries
+      ├── Joins
+      ├── Aggregations
+      ├── Exploratory Analysis
+      └── Trend Analysis
+            │
+            ▼
+BUSINESS INTELLIGENCE
+      │
+      ├── KPI Development
+      ├── DAX
+      ├── Data Modelling
+      ├── Dashboard Design
+      └── Interactive Reporting
+            │
+            ▼
+BUSINESS INSIGHTS
+      │
+      ├── Identify Patterns
+      ├── Find Performance Gaps
+      ├── Understand Drivers
+      └── Support Decisions
+```
+
+---
+
+# ▌ ANALYTICS MINDSET
+
+### I DON'T JUST ASK:
+
+> **"What does the data show?"**
+
+### I ALSO ASK:
+
+> **"Why is it happening?"**
+
+> **"Where is the problem?"**
+
+> **"What should the business pay attention to?"**
+
+> **"What action can the data support?"**
+
+---
+
+# ▌ CURRENT FOCUS
+
+```text
+SQL                 ████████████████████
+POWER BI            ████████████████████
+PYTHON / PANDAS     ████████████████████
+EXCEL               ████████████████████
+DAX                 ████████████████████
+DATA VISUALIZATION  ████████████████████
+```
+
+Currently focused on:
+
+* Building practical end-to-end analytics projects
+* Strengthening SQL and business analysis
+* Developing Python and Pandas workflows
+* Building decision-focused Power BI dashboards
+* Improving DAX and data modelling
+* Developing stronger data storytelling
+* Preparing for professional Data Analyst opportunities
+
+---
+
+# ▌ CAREER OBJECTIVE
+
+I am looking for an opportunity where I can apply my analytical skills to **real-world business problems**, work with meaningful datasets, and continue developing as a Data Analyst.
+
+### **OPEN TO DATA ANALYST OPPORTUNITIES**
+
+---
+
+# ▌ CONNECT
+
+<div align="center">
+
+### LET'S TURN DATA INTO INSIGHTS.
+
+<br>
+
+**LINKEDIN**
+
+<a href="https://www.linkedin.com/in/tanuja-h-350906222/">
+TANUJA HIREMATH
+</a>
+
+<br><br>
+
+**EMAIL**
+
+<a href="mailto:tanu.hiremath94@gmail.com">
+tanu.hiremath94@gmail.com
+</a>
+
+<br><br>
+
+**RESUME**
+
+<a href="./Tanuja_Hiremath_Resume.pdf">
+DOWNLOAD RESUME
+</a>
+
+<br><br>
+
+**GITHUB**
+
+<a href="https://github.com/tanu-94">
+github.com/tanu-94
+</a>
+
+<br><br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### TANUJA HIREMATH
+
+**DATA ANALYST**
+
+`SQL` · `Python` · `Power BI` · `Excel` · `Data Visualization`
+
+*Turning data into insights, and insights into better decisions.*
+
+</div>
