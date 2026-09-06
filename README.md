@@ -45,7 +45,7 @@
 
 # ◈ WELCOME
 
-> ## **I use data to understand performance, investigate problems, discover opportunities, and support better decisions.**
+> ## **I'm learning to use data to understand performance, investigate problems, and support better decisions.**
 
 Welcome to my Data Analytics Portfolio.
 
@@ -116,13 +116,13 @@ That is the direction I am building toward as a Data Analyst.
 
 ---
 
-# ◈ ANALYTICS MINDSET
+# ◈ MY LEARNING MINDSET
 
-### I DON'T JUST ASK:
+### I'M TRAINING MYSELF NOT TO JUST ASK:
 
 > **"What does the data show?"**
 
-### I ALSO ASK:
+### BUT TO ALSO ASK:
 
 > **"Why is this happening?"**
 
@@ -136,7 +136,7 @@ That is the direction I am building toward as a Data Analyst.
 
 ---
 
-# ◈ MY ANALYTICS OPERATING SYSTEM
+# ◈ TOOLS I'M LEARNING
 
 <table>
 <tr>
@@ -144,47 +144,28 @@ That is the direction I am building toward as a Data Analyst.
 
 # 🟦 SQL
 ### MySQL
-`SELECT`
-`JOIN`
-`GROUP BY`
-`CTEs`
-`Aggregations`
-`Business Queries`
+`SELECT` `JOIN` `GROUP BY` `CTEs` `Aggregations` `Business Queries`
 
 </td>
 <td width="25%" align="center">
 
 # 🟪 PYTHON
 ### Pandas
-`Cleaning`
-`EDA`
-`Transformation`
-`Analysis`
-`Validation`
-`Visualization`
+`Cleaning` `EDA` `Transformation` `Analysis` `Validation` `Visualization`
 
 </td>
 <td width="25%" align="center">
 
 # 🟨 POWER BI
 ### DAX
-`KPIs`
-`Measures`
-`Data Models`
-`Dashboards`
-`Reporting`
-`Insights`
+`KPIs` `Measures` `Data Models` `Dashboards` `Reporting` `Insights`
 
 </td>
 <td width="25%" align="center">
 
 # 🟩 EXCEL
 ### Power Query
-`Cleaning`
-`Analysis`
-`Reporting`
-`Validation`
-`Visualization`
+`Cleaning` `Analysis` `Reporting` `Validation` `Visualization`
 
 </td>
 </tr>
@@ -388,30 +369,21 @@ PROFITABILITY-FOCUSED DECISIONS
 
 # 01
 ## 💸 DISCOUNT
-Discount impact
-Profit margins
-Threshold analysis
-Profit leakage
+Discount impact · Profit margins · Threshold analysis · Profit leakage
 
 </td>
 <td width="33%" align="center">
 
 # 02
 ## 📦 PRODUCT
-Product performance
-Category analysis
-Profitability
-Loss areas
+Product performance · Category analysis · Profitability · Loss areas
 
 </td>
 <td width="33%" align="center">
 
 # 03
 ## 👥 CUSTOMER
-Customer value
-Profitability
-Segmentation
-Loss contribution
+Customer value · Profitability · Segmentation · Loss contribution
 
 </td>
 </tr>
@@ -420,30 +392,21 @@ Loss contribution
 
 # 04
 ## 🗺️ GEOGRAPHY
-Regions
-States
-Loss locations
-Performance gaps
+Regions · States · Loss locations · Performance gaps
 
 </td>
 <td width="33%" align="center">
 
 # 05
 ## 📈 KPI
-Business metrics
-DAX measures
-Reporting
-Performance tracking
+Business metrics · DAX measures · Reporting · Performance tracking
 
 </td>
 <td width="33%" align="center">
 
 # 06
 ## 🎯 STRATEGY
-Insights
-Recommendations
-Risk detection
-Decision support
+Insights · Recommendations · Risk detection · Decision support
 
 </td>
 </tr>
@@ -625,7 +588,7 @@ Decision Support
 
 ---
 
-# ◈ WHAT I CAN DO
+# ◈ WHAT I'M LEARNING TO DO
 
 ```text
 DATA PREPARATION
@@ -738,13 +701,13 @@ I am continuously strengthening my analytics skills.
 
 ### CURRENT DEVELOPMENT AREAS
 
-🟢 Advanced SQL problem-solving
-🟢 Business-focused data analysis
-🟢 Python and Pandas workflows
-🟢 Power BI dashboard development
-🟢 DAX and data modelling
-🟢 Statistics for analytics
-🟢 Stronger data storytelling
+- 🟢 Strengthening SQL problem-solving
+- 🟢 Business-focused data analysis
+- 🟢 Python and Pandas workflows
+- 🟢 Power BI dashboard development
+- 🟢 DAX and data modelling
+- 🟢 Statistics for analytics
+- 🟢 Stronger data storytelling
 
 ---
 
@@ -873,10 +836,9 @@ RECOMMENDED ACTION
 
 I am currently looking for opportunities where I can contribute as a:
 
-### DATA ANALYST
-### BUSINESS ANALYST
+### ENTRY-LEVEL DATA ANALYST
 ### JUNIOR DATA ANALYST
-### BI / REPORTING ANALYST
+### DATA ANALYST INTERN
 
 I am particularly interested in working with teams where data is used to:
 
@@ -942,7 +904,7 @@ IMPROVE
 <img src="https://img.shields.io/badge/GITHUB-BD7CFF?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 &nbsp;
-<a href="https://github.com/tanu-94/tanu-94/blob/8926cb66bdc4ea767e1f48394490c39c7a0f1fd1/Resume/Tanuja_Hiremath_Data_Analyst_Resume.docx">
+<a href="https://github.com/tanu-94/tanu-94/blob/main/Resume/Tanuja_Hiremath_Data_Analyst_Resume.docx">
 <img src="https://img.shields.io/badge/DOWNLOAD_RESUME-F2C811?style=for-the-badge&logo=readdotcv&logoColor=000000"/>
 </a>
 
