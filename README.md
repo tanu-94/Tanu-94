@@ -942,7 +942,7 @@ IMPROVE
 <img src="https://img.shields.io/badge/GITHUB-BD7CFF?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 &nbsp;
-<a href="https://github.com/tanu-94/tanu-94/blob/main/Resume/Tanuja_Hiremath_Data_Analyst_Resume.docx">
+<a href="https://github.com/tanu-94/tanu-94/blob/8926cb66bdc4ea767e1f48394490c39c7a0f1fd1/Resume/Tanuja_Hiremath_Data_Analyst_Resume.docx">
 <img src="https://img.shields.io/badge/DOWNLOAD_RESUME-F2C811?style=for-the-badge&logo=readdotcv&logoColor=000000"/>
 </a>
 
